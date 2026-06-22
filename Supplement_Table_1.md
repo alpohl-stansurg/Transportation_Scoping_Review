@@ -1,3 +1,8 @@
+Inclusion/exclusion criteria used for title/abstract and full text review
+
+
+
+
 |                                                                                                 | Include                                                                                      | Exclude                                                                                                      |
 |:-------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
 | Population                                                                                                   | Adults > 18 years of age                                                                     | Children                                                                                                     |
@@ -24,4 +29,6 @@
 | Other                                                                                                        |                                                                                              | Articles not written in English                                                                              |
 |                                                                                                              |                                                                                              | Articles published prior to 2003 (IoM Unequal Treatment/SDoH definition)                                     |
 |                                                                                                              |                                                                                              | Discrete choice experiments*                                                                                 |
-| * Denotes addition to study protocol during title/abstract and full text review to clarify common edge cases |                                                                                              |                                                                                                              |
+
+
+* Denotes addition to study protocol during title/abstract and full text review to clarify common edge cases                                                                                                                                                                    

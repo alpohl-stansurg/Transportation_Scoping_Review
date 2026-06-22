@@ -1,4 +1,4 @@
-### Supplemental Table 2. Data Extraction Template
+### Supplemental Table 3. Data Extraction Template
 
 | Field | Instructions and multiple choice options (if applicable) |
 | :--- | :--- |

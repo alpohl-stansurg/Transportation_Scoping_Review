@@ -1,4 +1,4 @@
 ### Risk of Bias Assessment Breast Cancer Screening
 
 
-![Risk of Bias Legend](../Figures/Key.png)
+![Risk of Bias Legend](/Figures/Key.png)

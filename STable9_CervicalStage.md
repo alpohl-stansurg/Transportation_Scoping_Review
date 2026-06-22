@@ -1,0 +1,7 @@
+### Supplemental Table 9. Findings from studies of transportation insecurity and stage at diagnosis in cervical cancer.
+
+| Study | Outcome | Population | Sample | Exposure | Results | Summary |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Friebel-Klingner 2022 [86]** | Stage at Diagnosis | Cervical cancer patients referred to one of two tertiary hospitals in Botswana between 2015 - 2020 | 959 | Travel time from patient's village to the multidisciplinary clinic | **aOR (95% CI)**<br>3-5 hr: 2.97 (1.28 - 6.90)<br>> 5 hr: 4.26 (1.61 - 11.3) | The odds of being diagnosed with stage IV cervical cancer (vs stage I) significantly increased with travel time. |
+| **Murage 2018 [77]** | Diagnosis by emergent presentation | Patients diagnosed with primary cervical cancer in several cancer registries in England between 2006-2010 | 11,599 | Travel time to GP | *No significant results* | No significant relationship between travel time to GP and emergent presentation of cervical cancer. |
+| **Virgilsen 2019 [87]** | Stage at diagnosis | Patients in the Danish Cancer Register (DCR) diagnosed with cervical cancer between 2005-2016 | 3,758 | Route distance between patient and their PCP.<br><br>Route distance between patient and diagnosing facility. | *No significant results*<br><br>*No significant results* | Neither distance to GP nor diagnosing hospital was significantly associated with advanced cervical cancer. |
